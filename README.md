@@ -2,7 +2,7 @@
 
 This work is inspired by https://github.com/cignium/LogForwarder. I used this as a basis and modified in order to adopt to New Relic Logs solution.
 
-The idea is to run this as a Azure App Service WebJob or Extension. It sends logs from a file in your Azure App Service to New Relic.
+The idea is to run this as an Azure App Service WebJob or Extension. It sends logs from a file in your Azure App Service to New Relic.
 
 ## Gettting Started
 
