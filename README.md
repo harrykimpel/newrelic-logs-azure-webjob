@@ -21,3 +21,5 @@ The idea is to run this as a Azure App Service WebJob or Extension. It sends log
 You need to enable "Always On" option in App Settings for keep alive the WebJob.
 
 The WebJob should start automatically and log information should be visible in your New Relic account within a couple of minutes.
+
+![New Relic Logs](newrelic-logs.png)
