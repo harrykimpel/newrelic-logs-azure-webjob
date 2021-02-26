@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>newrelic_logs_webjob</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="run.cmd" CopyToPublishDirectory="Always" />
+  </ItemGroup>
+
+</Project>

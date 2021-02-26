@@ -1,0 +1,1 @@
+dotnet newrelic-logs-webjob.dll
