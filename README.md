@@ -18,7 +18,7 @@ The idea is to run this as an Azure App Service WebJob or Extension. It sends lo
    - NEWRELIC_REGION = US or EU
    - NEWRELIC_LICENSEKEY = the New Relic License key of your account
 
-You need to enable "Always On" option in App Settings for keep alive the WebJob.
+You need to enable "Always On" option in App Settings for keep alive the WebJob. The deployment of such a WebJobs can also be automated using [Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/webjobs-dotnet-deploy-vs).
 
 The WebJob should start automatically and log information should be visible in your New Relic account within a couple of minutes.
 
